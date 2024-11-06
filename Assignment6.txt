@@ -1,4 +1,4 @@
-PS C:\Users\CHARU\Desktop\mern-stack\learning\backend\Mongo-db> use employees
+PS C:\Users\Deepanshu\Desktop\mern-stack\learning\backend\Mongo-db> use employees
 use : The term 'use' is not recognized as the name of a cmdlet, 
 function, script file, or operable program. Check the spelling 
 of the name, or if a path was included, verify that the path is 
@@ -10,7 +10,7 @@ At line:1 char:1
    CommandNotFoundException
     + FullyQualifiedErrorId : CommandNotFoundException
  
-PS C:\Users\CHARU\Desktop\mern-stack\learning\backend\Mongo-db> mongosh
+PS C:\Users\Deepanshu\Desktop\mern-stack\learning\backend\Mongo-db> mongosh
 Current Mongosh Log ID: 672b240548b226344b0d818f
 Connecting to:          mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+2.3.3      
 Using MongoDB:          8.0.3
